@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://harshasomaraju.github.io/sitemap.xml
+Host: https://harshasomaraju.github.io
